@@ -1,2 +1,1 @@
-# MA554F19
-# Applied Multivariate Analysis
+# MA554 Applied Multivariate Analysis Fall 2019
