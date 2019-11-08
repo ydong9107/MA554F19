@@ -9,4 +9,6 @@ Lecture 4: Statistical Inference about the Multivariate Normal Distribution
 
 Lecture 5: Principle Component Analysis and Linear Dimension Reduction
 
+Lecture 6: Classification
+
 
