@@ -11,4 +11,5 @@ Lecture 5: Principle Component Analysis and Linear Dimension Reduction
 
 Lecture 6: Classification
 
+Lecture 7: Factor Analysis
 
