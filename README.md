@@ -13,3 +13,5 @@ Lecture 6: Classification
 
 Lecture 7: Factor Analysis and Independent Component Analysis
 
+Lecture 8: Clustering
+
